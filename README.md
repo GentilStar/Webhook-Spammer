@@ -2,7 +2,7 @@
 ![image](https://media.discordapp.net/attachments/963252408035717200/963266981618917486/Screenshot_6.png)
 
 
-> A simple webhook spammer using Python
+> A simple webhook spammer using Python:
 
 **Download the Last python version here: https://www.python.org/downloads/**
 
