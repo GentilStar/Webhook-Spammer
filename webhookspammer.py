@@ -37,23 +37,5 @@ while True:
 
 cls()
 
-time.sleep(4)
-
-print(Fore.MAGENTA +
-"""  
-
-                                    
-                                      ╔═╗┌─┐┬┬─┐╔╗ ┬  ┬ ┬┌─┐
-                                      ╔═╝├┤ │├┬┘╠╩╗""" + Fore.WHITE + """│  │ │├┤ 
-                                      ╚═╝└─┘┴┴└─╚═╝┴─┘└─┘└─┘ """ + Fore.WHITE + """
-                         =========="""+ Fore.GREEN + """ Spamming... #LinkSquad """ + Fore.WHITE + """==========""" + Fore.MAGENTA + """
-                                    ┌─────────────────────────┐   
-                                    │""" + Fore.WHITE + """ by GentilStar with """ + Fore.RED + """<3""" + Fore.MAGENTA + """   │                                
-                                    └─────────────────────────┘                                                             """ + Fore.RED + """   """)
-                         
-
-time.sleep(1000)
-
-
                          
                          
