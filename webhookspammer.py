@@ -3,11 +3,7 @@ import os
 from dhooks import Webhook
 init()
 
-def cls():
-    os.system('cls' if os.name=='nt' else 'clear')
-    
-   
-cls()
+
                                  
 print(Fore.MAGENTA +
 """  
@@ -31,11 +27,3 @@ hook = Webhook(i)
 while True:
  hook.send(p)
  print(f"[+] {p}")
-
- 
-
-
-cls()
-
-                         
-                         
